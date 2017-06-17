@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">epic</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_prblmmenu">prblmmenu</string>
+    <string name="title_activity_car_problems">CarProblems</string>
+    <string name="title_activity_bike_problems">BikeProblems</string>
+    <string-array name="carprblm">
+        <item>General Service</item>
+        <item>Car break down</item>
+        <item>Tyre Puncture</item>
+        <item>Wheel Alignment</item>
+        <item>Not Starting</item>
+        <item>Fumes from engine</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="bikeprblm">
+        <item>General Service</item>
+        <item>Bike break down</item>
+        <item>Tyre Puncture</item>
+        <item>Engine repair</item>
+        <item>Not Starting</item>
+        <item>Clutch overhaul</item>
+        <item>unknown</item>
+    </string-array>
+</resources>
